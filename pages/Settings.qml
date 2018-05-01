@@ -629,7 +629,7 @@ Rectangle {
             id: guiMoneroVersion
             Layout.fillWidth: true
             font.pixelSize: 14
-            text: qsTr("Embedded Masari version: ") + Version.GUI_MONERO_VERSION + translationManager.emptyString
+            text: qsTr("Embedded Zuccbucc version: ") + Version.GUI_MONERO_VERSION + translationManager.emptyString
         }
         TextBlock {
             id: restoreHeightText

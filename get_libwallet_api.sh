@@ -1,6 +1,6 @@
 #!/bin/bash
 MONERO_URL=https://github.com/zuccbucc-project/zuccbucc.git
-MONERO_BRANCH=v0.2.0.0
+MONERO_BRANCH=master
 
 pushd $(pwd)
 ROOT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
